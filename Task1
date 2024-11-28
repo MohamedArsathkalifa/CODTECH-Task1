@@ -1,5 +1,3 @@
-/*PASSWORD STRENGTH CHECKER*/
-
 import re
 
 def checkpassword(password):
