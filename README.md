@@ -46,7 +46,7 @@ Installation
 To run the Password Strength Checker Tool locally, follow these steps:
 
 Clone the repository:
-git clonehttps://github.com/MohamedArsathkalifa/CODTECH-Task1.git
+git clone https://github.com/MohamedArsathkalifa/CODTECH-Task1.git
 
 2.Navigate to the project directory:
    cd password-strength-checker 
