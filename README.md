@@ -42,7 +42,7 @@ The Password Strength Checker Tool is a simple yet robust utility that evaluates
 
 
 
-Installation
+## Installation
 To run the Password Strength Checker Tool locally, follow these steps:
 
 Clone the repository:
