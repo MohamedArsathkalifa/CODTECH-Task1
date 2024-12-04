@@ -57,4 +57,4 @@ git clone https://github.com/MohamedArsathkalifa/CODTECH-Task1.git
   
 4.Run the application
 For Python
-  python password.py
+  python password.py      
