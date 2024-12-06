@@ -46,18 +46,15 @@ The Password Strength Checker Tool is a simple yet robust utility that evaluates
 To run the Password Strength Checker Tool locally, follow these steps:
 
 Clone the repository:
-	git clone https://github.com/MohamedArsathkalifa/CODTECH-Task1.git
+	**git clone https://github.com/MohamedArsathkalifa/CODTECH-Task1.git**
 
 2.Navigate to the project directory:
-	cd password-strength-checker 
+	**cd password-strength-checker**
    
 
 3.for installing in linux 
-	apt install python
-
-4.Install the required dependencies (if applicable):
-	pip install -r requirements.txt
+	**apt install python**
 
 5.Run the application
 For Python
-	python password.py      
+	**python 'Task 1 password strength checker'**
