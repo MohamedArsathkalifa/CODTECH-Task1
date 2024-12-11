@@ -54,9 +54,9 @@ Clone the repository
                                                                                                                                                                 																																																																																																		cd password-strength-checker
    
 
-3.for installing in linux 
+3.for installing in linux :
 																																																																						apt install python	
 
 5.Run the application
-For Python
+For Python:
 																																																																						python 'Task 1 password strength checker'
