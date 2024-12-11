@@ -51,12 +51,12 @@ Clone the repository
 			git clone https://github.com/MohamedArsathkalifa/CODTECH-Task1.git
  
 2.Navigate to the project directory:
-	**cd password-strength-checker**
+                                                                                                                                                                																																																																																																		cd password-strength-checker
    
 
 3.for installing in linux 
-	**apt install python**
+																																																																						apt install python	
 
 5.Run the application
 For Python
-	**python 'Task 1 password strength checker'**
+																																																																						python 'Task 1 password strength checker'
